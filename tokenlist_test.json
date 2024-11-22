@@ -7,7 +7,7 @@
         "patch": 0
     },
     "tags": {},
-    "logoURI": "https://tryroll.com/wp-content/uploads/2018/11/cropped-icon-270x270.png",
+    "logoURI": "https://hyper-index-dex.4everland.store/hsk-logo.png",
     "keywords": [
         "hashkey",
         "personal tokens"
@@ -22,7 +22,7 @@
             "tags": [
                 "hashkey test"
             ],
-            "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
+            "logoURI": "https://hyper-index-dex.4everland.store/logo.png"
         },{
             "name": "USDT Token",
             "address": "0x04bc4dE90115375347311F7684592eeeA073eb82",
@@ -32,7 +32,7 @@
             "tags": [
                 "hashkey test"
             ],
-            "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
+            "logoURI": "https://hyper-index-dex.4everland.store/logo.png"
         },
         {
             
@@ -44,7 +44,7 @@
             "tags": [
                 "hashkey test"
             ],
-            "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
+            "logoURI": "https://hyper-index-dex.4everland.store/logo.png"
         },
         {
             "name": "Blacklist Token",
@@ -55,7 +55,7 @@
             "tags": [
                 "hashkey test"
             ],
-            "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
+            "logoURI": "https://hyper-index-dex.4everland.store/logo.png"
         },
         {
             "name": "Basic Token",
@@ -66,7 +66,7 @@
             "tags": [
                 "hashkey test"
             ],
-            "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
+            "logoURI": "https://hyper-index-dex.4everland.store/logo.png"
         },{
             "name": "Pausable Token",
             "address": "0x39675dE50be0C3CD68dA30E51cE3957695cA88d0",
@@ -76,7 +76,7 @@
             "tags": [
                 "hashkey test"
             ],
-            "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
+            "logoURI": "https://hyper-index-dex.4everland.store/logo.png"
         },{
             "name": "Burnable Token",
             "address": "0x89e95b5c0739a63Da021294dDCF6Dd9e66de4bD0",
@@ -86,7 +86,7 @@
             "tags": [
                 "hashkey test"
             ],
-            "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
+            "logoURI": "https://hyper-index-dex.4everland.store/logo.png"
         }
     ]
 }
